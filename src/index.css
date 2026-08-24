@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #f8f9fa;
+}
+
+.min-vh-75 {
+  min-height: 75vh;
+}
+
+.card {
+  border: none;
+}
+
+.navbar-brand {
+  letter-spacing: 0.5px;
+}
